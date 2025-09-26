@@ -280,39 +280,6 @@
       "data_abertura": "2019-11-24T21:32:17Z",
       "valor_carteira": 3.16709013,
       "endereco_carteira": "1FkwMvDDeJL2GuiBzwG1ypgkKQDhPnk9uU"
-    },
-    {
-      "id": "26",
-      "nome": "Cristal",
-      "sobrenome": "Murty",
-      "email": "cmurtyp@parallels.com",
-      "endereco": "464 Messerschmidt Terrace",
-      "data_nascimento": "1996-09-07T00:54:14Z",
-      "data_abertura": "2016-09-16T22:19:16Z",
-      "valor_carteira": 3.58357275,
-      "endereco_carteira": "1M5y3U1Q2WRaAuiakfE2xz9zwUJaD51qCt"
-    },
-    {
-      "id": "27",
-      "nome": "Dewitt",
-      "sobrenome": "Sitford",
-      "email": "dsitfordq@imdb.com",
-      "endereco": "065 Ruskin Plaza",
-      "data_nascimento": "1998-11-03T20:58:36Z",
-      "data_abertura": "2019-07-09T04:03:39Z",
-      "valor_carteira": 4.28868341,
-      "endereco_carteira": "1Br31jTYJSaq62kk17eSFLyYe14bjmRk7Z"
-    },
-    {
-      "id": "28",
-      "nome": "Benson",
-      "sobrenome": "Wasteney",
-      "email": "bwasteneyr@youku.com",
-      "endereco": "9 Columbus Pass",
-      "data_nascimento": "1988-02-01T04:39:10Z",
-      "data_abertura": "2020-03-15T17:20:52Z",
-      "valor_carteira": 3.70109054,
-      "endereco_carteira": "1G6x4Vk4nSkWvCVqBYzR4fHkrg2cVU79pt"
     }
   ]
 }
