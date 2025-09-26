@@ -2,9 +2,9 @@
   "first": 1,
   "prev": null,
   "next": 2,
-  "last": 6,
-  "pages": 6,
-  "items": 51,
+  "last": 3,
+  "pages": 3,
+  "items": 28,
   "data": [
      {
       "id": "1",
@@ -313,28 +313,6 @@
       "data_abertura": "2020-03-15T17:20:52Z",
       "valor_carteira": 3.70109054,
       "endereco_carteira": "1G6x4Vk4nSkWvCVqBYzR4fHkrg2cVU79pt"
-    },
-    {
-      "id": "29",
-      "nome": "Dana",
-      "sobrenome": "Ernshaw",
-      "email": "dernshaws@comcast.net",
-      "endereco": "783 Vahlen Place",
-      "data_nascimento": "1999-11-28T12:31:14Z",
-      "data_abertura": "2019-05-06T03:50:54Z",
-      "valor_carteira": 4.018535,
-      "endereco_carteira": "1NExUbWVTYzmBBuxRbwoteZC632tPp4CEv"
-    },
-    {
-      "id": "30",
-      "nome": "Kandace",
-      "sobrenome": "Bendare",
-      "email": "kbendaret@shinystat.com",
-      "endereco": "3852 Welch Hill",
-      "data_nascimento": "1983-05-12T00:20:34Z",
-      "data_abertura": "2019-04-11T16:14:50Z",
-      "valor_carteira": 0.23584227,
-      "endereco_carteira": "18A47fVgVL1qWQC57g1tt8vmLde3RnTeqw"
     }
   ]
 }
