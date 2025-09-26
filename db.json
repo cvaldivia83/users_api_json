@@ -225,61 +225,6 @@
       "data_abertura": "2017-07-18T05:37:12Z",
       "valor_carteira": 2.79284583,
       "endereco_carteira": "13ekLdgDJbYc32gPUUto7ARR2yvfUoBdLB"
-    },
-    {
-      "id": "21",
-      "nome": "Gates",
-      "sobrenome": "Olrenshaw",
-      "email": "golrenshawk@springer.com",
-      "endereco": "72100 Mockingbird Lane",
-      "data_nascimento": "1997-09-06T14:03:52Z",
-      "data_abertura": "2017-02-18T01:10:29Z",
-      "valor_carteira": 3.99488992,
-      "endereco_carteira": "1MqurpDATqHNDUPMVbR7L3BW1hz2DcM29"
-    },
-    {
-      "id": "22",
-      "nome": "Cory",
-      "sobrenome": "Jefferson",
-      "email": "cjeffersonl@arizona.edu",
-      "endereco": "6 Monica Park",
-      "data_nascimento": "1998-07-06T19:55:36Z",
-      "data_abertura": "2021-02-16T01:21:51Z",
-      "valor_carteira": 0.64663974,
-      "endereco_carteira": "12Z8LT9RNxXB1rRVsG6ooNKrQQcrr3WKAi"
-    },
-    {
-      "id": "23",
-      "nome": "Marthena",
-      "sobrenome": "McKinnon",
-      "email": "mmckinnonm@bloomberg.com",
-      "endereco": "60556 Columbus Terrace",
-      "data_nascimento": "1984-07-17T10:27:01Z",
-      "data_abertura": "2021-03-14T16:59:11Z",
-      "valor_carteira": 3.30436486,
-      "endereco_carteira": "1FW5iP1Fdmx3HPtmcJZxpNZZGwFEQuFTRN"
-    },
-    {
-      "id": "24",
-      "nome": "Dario",
-      "sobrenome": "Feacham",
-      "email": "dfeachamn@lulu.com",
-      "endereco": "427 Coolidge Plaza",
-      "data_nascimento": "1998-08-09T10:12:45Z",
-      "data_abertura": "2020-05-31T03:00:04Z",
-      "valor_carteira": 4.99926255,
-      "endereco_carteira": "1EqUmmUpupsRH9KFfRCV1Xxb2v1hkF1S2X"
-    },
-    {
-      "id": "25",
-      "nome": "Conroy",
-      "sobrenome": "McLice",
-      "email": "cmcliceo@businessweek.com",
-      "endereco": "23499 Bartillon Plaza",
-      "data_nascimento": "1988-04-22T16:46:43Z",
-      "data_abertura": "2019-11-24T21:32:17Z",
-      "valor_carteira": 3.16709013,
-      "endereco_carteira": "1FkwMvDDeJL2GuiBzwG1ypgkKQDhPnk9uU"
     }
   ]
 }
